@@ -46,6 +46,8 @@ function guessCheck(){
 }
 
 function reset(){
+    //Generate a new random number.
+    randomLetter = alphabetArray[Math.floor(Math.random() * alphabetArray.length)];
     //When the game ends, guesses made should reset to null
     guessesMade = [];
     guessesMadeDisplay.textContent = guessesMade;
