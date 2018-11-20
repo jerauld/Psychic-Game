@@ -4,6 +4,10 @@
 
 Psychic Game was created for the Psychic Game homework assignment for Berkeley Coding Bootcamp and features dynamically updated HTML and CSS powered by Javascript running in a browser. 
 
+## Demo (via GitHub Pages)
+
+https://julienshim.github.io/Psychic-Game/
+
 ## Requirements
 
 - Essentially, the app randomly picks a letter, and the user has to guess which letter the app chose.
