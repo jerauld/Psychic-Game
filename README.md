@@ -1,10 +1,10 @@
 # Psychic-Game
 
-**Overview**
+## Overview
 
 Psychic Game was created for the Psychic Game homework assignment for Berkeley Coding Bootcamp and features dynamically updated HTML and CSS powered by Javascript running in a browser. 
 
-**Requirements**
+## Requirements
 
 - Essentially, the app randomly picks a letter, and the user has to guess which letter the app chose.
 - Display the following on the page:
@@ -15,4 +15,8 @@ Psychic Game was created for the Psychic Game homework assignment for Berkeley C
     - When the player wins, increase the Wins counter and start the game over again (without refreshing the page).
     - When the player loses, increase the Losses counter and restart the game without a page refresh (just like when the user wins).
 
-**Note: I chose not to style the game too much because of the need to put more effort in the more challenging and recommended Word Guess Game**
+**Note: I chose not to style the game too much because of the need to put more effort in the more challenging and recommended [Word Guess Game](https://github.com/julienshim/Word-Guess-Game)**
+
+## Screenshot
+
+<img src="https://raw.githubusercontent.com/julienshim/Psychic-Game/master/assets/images/screenshot.png"/>
